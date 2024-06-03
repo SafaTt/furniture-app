@@ -6,15 +6,18 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 1. Install dependencies
 
-   ```bash
    npm install
-   ```
+
+   nativewind : on a téléchargé le plugin nativewind pour intégrer le style css avec le projet native
+   
+   responsive : utiliser la bib react-native-responsive-screen pour assurer la côté "responsive" de l'application
+
+   expo-linear-gradient : fournit une vue React native qui effectue une transition entre plusieurs couleurs dans une direction linéaire.
+
 
 2. Start the app
 
-   ```bash
-    npx expo start
-   ```
+    npx expo start ou npm start
 
 In the output, you'll find options to open the app in a
 
