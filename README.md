@@ -14,6 +14,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    expo-linear-gradient : fournit une vue React native qui effectue une transition entre plusieurs couleurs dans une direction linéaire.
 
+   reanimated : pour assurer l'animatin
+
+   react-native-snap-carousel : pour l'animation des images du UI Home
+
+   react-native-snap-carousel : utiliser la version ^4.0.0-beta.6 pour assurer la stabilité
+
 
 2. Start the app
 
